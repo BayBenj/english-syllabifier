@@ -2,7 +2,7 @@
 
 Don't want to use a dictionary for syllable data? Neither did I! A syllabifier allows you to parse phonemes into syllables simply by following a language's phonotactic rules.
 
-The English language has [14 phonotactic rules] (https://en.wikipedia.org/wiki/Phonotactics). This syllable parser uses the fourteen phonotactic rules of English to syllabify sequences of phonemes. 
+The English language has [14 phonotactic rules](https://en.wikipedia.org/wiki/Phonotactics). This syllable parser uses the fourteen phonotactic rules of English to syllabify sequences of phonemes. 
 
 The algorithm works by:
 1. labelling a word’s nuclei ν
