@@ -14,4 +14,4 @@ Certain words that violate these rules (for example, words of non-English origin
 ## Syllable composition
 A word is a sequence of syllables. A syllable is made of an onset ω, nucleus ν, and coda κ. The nucleus is the central vowel phoneme. The onset is the consonant phoneme(s) preceding the nucleus. The coda is the consonant phoneme(s) following the nucleus. Both the onset and coda may be empty.
 
-![alt text](https://github.com/BayBenj/english-syllabifier/syllable-parts.jpg "Syllable Parts")
+![Syllable Parts](https://github.com/BayBenj/english-syllabifier/syllable-parts.jpg "Syllable Parts")
